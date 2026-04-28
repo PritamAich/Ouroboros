@@ -199,7 +199,7 @@ Smaller models (TinyLlama, base Phi, base Mistral) struggle with structured outp
 
 ## 👤 Author
 
-**Pritam** — built as a self-directed learning project exploring prompt engineering and agentic AI systems.
+**Pritam Aich** — built as a self-directed learning project exploring prompt engineering and agentic AI systems.
 
 ---
 
